@@ -3,3 +3,6 @@ Simple Script for switching between colourschemes
 Script lists .cls files from ${HOME}/.colors/schemes.
 .cls files contain Terminal-colordefinitions.
 
+## Setup
+Copy/Link .colors to ${HOME}
+Run "${HOME}/.colors/bin/colorswitcher.sh"
