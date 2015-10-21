@@ -1,0 +1,5 @@
+# ColorswitcherSimple
+Simple Script for switching between colourschemes
+Script lists .cls files from ${HOME}/.colors/schemes.
+.cls files contain Terminal-colordefinitions.
+
